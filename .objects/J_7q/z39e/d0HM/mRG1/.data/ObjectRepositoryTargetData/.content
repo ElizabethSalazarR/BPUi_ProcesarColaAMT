@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NjPPxw9U4UW3KIHXQYSsBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="d7d3311e-484e-46ee-9e66-47e83c2b0877" CvElementArea="578, 420, 89, 26" CvTextArea="600, 426, 44, 12" CvTextArgument="Guardar" CvType="Button" DesignTimeRectangle="578, 420, 88, 26" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Guardar' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Guardar' check:text='&amp;amp;Guardar' /&gt;" Guid="23c291cb-d69f-457d-aa98-31d00b724ad3" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Guardar como' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d7d3311e-484e-46ee-9e66-47e83c2b0877" CvTextArea="37, 9, 77, 12" CvTextArgument="Guardar como" CvType="Text" DesignTimeRectangle="37, 9, 77, 12" ElementType="Text" Guid="10823be2-024e-4d5b-8d08-09d64f6ce3ef" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dea0e29a8e89dc0ce7e8885e4612942a.png" xmlns="">0DbMbtcpHHUyO3_aeGtScrg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

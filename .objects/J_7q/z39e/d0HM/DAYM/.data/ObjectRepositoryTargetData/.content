@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aAX7O5IlSEaiSfbLYjqYjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicioConsultaInfracciones/paginas/imprime_boleta.jsp" CVScreenId="d989b462-34d9-49eb-bf00-6bb4c84bd729" CvElementArea="1475, 123, 21, 21" CvType="Icon" DesignTimeRectangle="1473, 121, 25, 25" DesignTimeScaleFactor="1" ElementType="Icon" Guid="3d0ee601-a8b8-47ed-8aba-dcee25cfeafc" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAD4SURBVEhL7ZTRCkRAFIa9lxQ3XHkS5VryFF5AyQt4AVcuPQPKpWuR1NnOtDbONMzU2t1af/1hzjn/18wUTdd1uNoaXbjCN0TJ34UEQQBt28KZhmGAPM/BNE0u4xTS9z14nsfeUbS+rjuOA0VRQFmWYBgG14MWQrbBRxB84i6qqoIsy7getBRkHEdwXXdXtywL5nl+fdu2zfpoDloKEscxC6BKkkQ4owyRtWjmNyBpmj4PR6z12FA0RwqyLAt36VtjbZqm3Qz1KUQ0qNL7B5C6rtlvRTS4Ncr3fTZDa2ghJIoi6LqOBcioaRoIw5DLOYS80zdEyR+BPABaAtUGyPL8cQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='imprime_boleta.jsp' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5d5377618b8005524af4e1149839a7ef.png" xmlns="">0XrCqTns1VU-1WKzToXNy4A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

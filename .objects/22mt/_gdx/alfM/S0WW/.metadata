@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Guardar como(2)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "S0WWJk1J0EWH3E9n4IJl4g",
+  "Reference": "6dIUys5q00S0qF-1UQjg-w/S0WWJk1J0EWH3E9n4IJl4g",
+  "ParentRef": "6dIUys5q00S0qF-1UQjg-w/alfMwnmyekOpjHZrwk08Mg",
+  "Created": "2024-12-23T03:57:40.5668039Z",
+  "Updated": "2024-12-23T03:57:40.5668039Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

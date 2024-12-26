@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Nueva pestaña",
+  "Type": "App",
+  "Id": "J_7qB4v48kuvEDjwxahpsA",
+  "Reference": "6dIUys5q00S0qF-1UQjg-w/J_7qB4v48kuvEDjwxahpsA",
+  "Created": "2024-12-23T01:06:28.5166446Z",
+  "Updated": "2024-12-23T01:06:28.5166446Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

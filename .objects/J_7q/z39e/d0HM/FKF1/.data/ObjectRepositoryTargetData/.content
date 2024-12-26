@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gw41Ae5vtkuJeAOLW8Ve5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicioConsultaInfracciones/paginas/imprime_boleta.jsp" CVScreenId="26d04f45-3fa3-49d0-9482-29b4f5dff815" CvElementArea="566, 11, 360, 54" CvTextArea="612, 26, 153, 22" CvTextArgument="imprime_boleta.jsp" CvType="Button" DesignTimeRectangle="554, 11, 384, 53" DesignTimeScaleFactor="1.5" ElementType="TabPage" FullSelectorArgument="&lt;ctrl name='imprime_boleta.jsp: Microsoft Edge' role='pane' /&gt;&lt;ctrl idx='2' name='Barra de pestañas' role='page tab list' /&gt;&lt;ctrl name='imprime_boleta.jsp' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='imprime_boleta.jsp: Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Barra de pestañas' role='page tab list' /&gt;&lt;ctrl name='imprime_boleta.jsp' role='page tab' automationid='' check:fulltext='Cerrar pestaña' /&gt;" Guid="4484aeb0-7f45-4f32-87d3-3254b9ebc3ca" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='imprime_boleta.jsp y 1 página más - Personal: Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="020631890bc0f130f6588ac9be29bd8f.png" xmlns="">05p1d3Xuya0SRMQU4ai32Xw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

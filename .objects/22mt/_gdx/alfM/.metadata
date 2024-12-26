@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge imprime_boleta.jsp",
+  "Type": "Screen",
+  "Id": "alfMwnmyekOpjHZrwk08Mg",
+  "Reference": "6dIUys5q00S0qF-1UQjg-w/alfMwnmyekOpjHZrwk08Mg",
+  "ParentRef": "6dIUys5q00S0qF-1UQjg-w/_gdxKY6CVkKx_HGjC-1b8w",
+  "Created": "2024-12-23T02:53:15.6244211Z",
+  "Updated": "2024-12-23T02:53:15.6244211Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

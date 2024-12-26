@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NgnyRmY23UqqRsRAMHS3Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicioConsultaInfracciones/paginas/imprime_boleta.jsp" CVScreenId="21f9fa08-ec58-4dd1-883c-969275dfef2b" CvElementArea="134, 341, 654, 24" CvType="InputBox" DesignTimeRectangle="133, 342, 654, 23" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Tipo:' cls='ComboBox' /&gt;&lt;ctrl name='Tipo:' role='combo box' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Tipo:' cls='ComboBox' /&gt;&lt;ctrl name='Tipo:' role='combo box' automationid='' /&gt;" Guid="80e2a6bb-388d-422e-913e-4e62db59d211" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Guardar como' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="21f9fa08-ec58-4dd1-883c-969275dfef2b" CvTextArea="99, 347, 29, 15" CvTextArgument="Tipo:" CvType="Text" DesignTimeRectangle="18, 342, 115, 23" ElementType="Text" FullSelectorArgument="&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;ctrl name='Panel del explorador' role='pane' /&gt;&lt;ctrl name='Panel de diseño de carpeta' role='pane' /&gt;&lt;ctrl name='Panel de detalles' role='pane' /&gt;&lt;ctrl name='Tipo:' role='text' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Panel del explorador' cls='DirectUIHWND' /&gt;&lt;ctrl name='Panel del explorador' role='pane' /&gt;&lt;ctrl name='Panel de diseño de carpeta' role='pane' /&gt;&lt;ctrl name='Panel de detalles' role='pane' /&gt;&lt;ctrl name='Tipo:' role='text' automationid='' check:text='Tipo:' /&gt;" Guid="0e9717f7-7ca0-4c52-95c0-57e779a2d9c7" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b6acadd9ad0e6be6e603423c992d11b5.png" xmlns="">0LrwXGi2eMkSj6eyjt2adZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

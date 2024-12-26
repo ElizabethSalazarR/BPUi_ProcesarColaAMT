@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EkBGjMuZSkK-I3Y0lIF5ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="b5265fad-221d-40f4-ba3c-8f1569d3c46d" CvTextArea="32, 505, 68, 13" CvTextArgument="Pendientes" CvType="Text" DesignTimeRectangle="32, 505, 68, 13" DesignTimeScaleFactor="1" ElementType="Text" Guid="b1ed862b-fa0e-422d-9e28-c79123a3553a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b5265fad-221d-40f4-ba3c-8f1569d3c46d" CvTextArea="565, 297, 76, 13" CvTextArgument="Infracciones" CvType="Text" DesignTimeRectangle="567, 295, 73, 17" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl parentid='dv_informacion' tag='B' type='' class='' aaname='Infracciones' check:innerText='Infracciones' /&gt;" Guid="1f50194f-479c-4884-8efc-57b518f616b6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="92a9e09c8fe4329afb7815250c0f9a5c.png" xmlns="">0gfLbGD-S90GwFbLfhXouYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

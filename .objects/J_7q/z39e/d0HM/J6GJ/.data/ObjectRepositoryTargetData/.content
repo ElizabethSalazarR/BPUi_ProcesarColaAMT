@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Xg1bvDB8y0iOFquJ8SGIuQ" Reference="6dIUys5q00S0qF-1UQjg-w/J6GJFsV5UEe1pmtl8I_A4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="1bfa242c-0ff7-4c0c-945a-364bb829732e" CvElementArea="1325, 613, 46, 42" CvType="Button" DesignTimeRectangle="1327, 615, 42, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='btn_imprimir' tag='BUTTON' type='button' class='btn btn-primary' aaname='                                                                                                                                             ' /&gt;" Guid="943aa476-76be-45b0-9bc4-ae2449e8e185" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1bfa242c-0ff7-4c0c-945a-364bb829732e" CvTextArea="246, 582, 49, 16" CvTextArgument="Agente:" CvType="Text" DesignTimeRectangle="247, 579, 186, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='td_modal_infraccion_AGENTE_etiqueta' tag='P' type='' class='p-0 m-0' aaname='Agente: ' check:innerText='Agente:' /&gt;" Guid="2ed04e79-0abc-4f7d-b0a5-9272ccbc38a4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4b15b23f20f3916bbb1becf46bfe214a.png" xmlns="">0g0zn6PexikmexcgPRWiiuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

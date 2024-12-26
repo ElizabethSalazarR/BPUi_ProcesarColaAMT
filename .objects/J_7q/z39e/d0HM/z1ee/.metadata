@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tipo de Búsqueda",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "z1eefLYzRES7QgDCY_yjow",
+  "Reference": "6dIUys5q00S0qF-1UQjg-w/z1eefLYzRES7QgDCY_yjow",
+  "ParentRef": "6dIUys5q00S0qF-1UQjg-w/d0HMm6enbkKWcMO-EdKyYQ",
+  "Created": "2024-12-23T01:52:23.2290305Z",
+  "Updated": "2024-12-23T01:52:23.2290305Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

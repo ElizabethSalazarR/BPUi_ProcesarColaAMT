@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bGpph_dttkaMwkd0UqluGQ" Reference="6dIUys5q00S0qF-1UQjg-w/1J0i2Tdp7kyvNiL87sNqxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="8de2d2b0-7dd4-4772-a4bc-3dae0b4a65b8" DesignTimeRectangle="113, 882, 84, 26" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="71c91026-1745-436d-9a55-b52665907d16" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.FuzzySelectorArgument>
+        <p:InArgument x:TypeArguments="x:String">
+          <p:CSharpValue x:TypeArguments="x:String">string.Format("&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='table_inf' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='{0}' check:innerText='{0}' /&gt;", strNumInfraccion)</p:CSharpValue>
+        </p:InArgument>
+      </TargetAnchorable.FuzzySelectorArgument>
+      <imageRef attrName="InformativeScreenshot" originalValue="261199018cceb9ca4a9f0849290d2242.png" xmlns="">0HzGHmy9vi0mrtJXab9Rs3A</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="31475899" Name="strNumInfraccion" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

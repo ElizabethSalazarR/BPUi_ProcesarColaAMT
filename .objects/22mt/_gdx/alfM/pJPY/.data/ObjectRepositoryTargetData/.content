@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TcBCsfaXC0m2TKD0sNn1zA" Reference="6dIUys5q00S0qF-1UQjg-w/pJPYnJJ420Sbcdqvld4ETg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicioConsultaInfracciones/paginas/imprime_boleta.jsp" CVScreenId="c446f334-983f-48a0-96f8-05b05168a135" CvElementArea="142, 40, 424, 35" CvType="InputBox" DesignTimeRectangle="491, 41, 37, 37" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;wnd aaname='Cargando' cls='msctls_progress32' /&gt;&lt;wnd cls='ToolbarWindow32' title='Banda de direcciones' /&gt;&lt;ctrl name='Banda de direcciones' role='tool bar' /&gt;&lt;ctrl name='Ubicaciones anteriores' role='push button' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Cargando' cls='msctls_progress32' /&gt;&lt;wnd cls='ToolbarWindow32' title='Banda de direcciones' /&gt;&lt;ctrl name='Banda de direcciones' role='tool bar' /&gt;&lt;ctrl name='Ubicaciones anteriores' role='push button' automationid='' check:text='Ubicaciones anteriores' /&gt;" Guid="bf4197bc-db4f-4e2e-b7c9-3131126d26d3" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Guardar como' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c446f334-983f-48a0-96f8-05b05168a135" CvTextArea="37, 9, 77, 12" CvTextArgument="Guardar como" CvType="Text" DesignTimeRectangle="37, 9, 77, 12" ElementType="Text" Guid="e0cfdea4-33bc-44a4-ae48-92a977b55b71" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0110173c054c9b4dbc1e1dc4ebddb3da.png" xmlns="">0RBIi2BFibUSKRkH-EYbmCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

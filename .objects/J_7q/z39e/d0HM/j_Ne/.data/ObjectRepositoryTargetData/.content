@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cewr85gpIE-_uTJQySqv1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="8de2d2b0-7dd4-4772-a4bc-3dae0b4a65b8" CvTextArea="68, 594, 57, 12" CvTextArgument="31475899" CvType="Text" DesignTimeRectangle="68, 591, 56, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='table_inf' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' aaname='31475899' check:innerText='31475899' /&gt;" Guid="c7fd9098-3a45-4349-9f86-dbdd162d2514" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8de2d2b0-7dd4-4772-a4bc-3dae0b4a65b8" CvTextArea="33, 565, 87, 13" CvTextArgument="No. Infracción" CvType="Text" DesignTimeRectangle="25, 558, 103, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='table_inf' tag='TABLE' /&gt;&lt;webctrl aaname='No. Infracción' type='' tag='TH' class='table-active text-center' check:innerText='No. Infracción' /&gt;" Guid="3c3a4a17-7b47-4456-8b37-92ae052e823f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8c8c149497e185aef12e6004a79e267a.png" xmlns="">0j9v97Bdf_UuuUJcU6weYAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

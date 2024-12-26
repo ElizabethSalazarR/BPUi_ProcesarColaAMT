@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Cerrar pestaña",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "2seyOQZpIUe-l3Sci2p_OA",
+  "Reference": "6dIUys5q00S0qF-1UQjg-w/2seyOQZpIUe-l3Sci2p_OA",
+  "ParentRef": "6dIUys5q00S0qF-1UQjg-w/alfMwnmyekOpjHZrwk08Mg",
+  "Created": "2024-12-23T03:21:04.6451797Z",
+  "Updated": "2024-12-23T03:21:04.6451797Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

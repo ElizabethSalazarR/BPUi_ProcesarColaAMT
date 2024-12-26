@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9_aCnb1w5027qPostnl3yg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="d3f91ad7-e6d8-4813-a0c6-a324d095cc94" CvElementArea="1338, 232, 29, 29" CvType="CloseButton" DesignTimeRectangle="1337, 231, 32, 32" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl aria-label='Close' tag='BUTTON' type='button' class='btn-close btn-close-white' aaname='' /&gt;" Guid="cd889888-86cd-4fef-9559-092aa2e25bbe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d3f91ad7-e6d8-4813-a0c6-a324d095cc94" CvElementArea="1325, 613, 46, 42" CvType="Button" DesignTimeRectangle="1327, 615, 42, 38" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='btn_imprimir' tag='BUTTON' type='button' class='btn btn-primary' aaname='                                                                                                                                             ' /&gt;" Guid="574bffe9-eb3c-4f92-923e-514699df56a9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fe3ae163bfd2d71e9d6a26ad3eeae2ce.png" xmlns="">06OKbQcWw6Um2gywi6-ivxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

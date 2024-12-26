@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jQjELAuB30iyGEaSStcCKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="7dc7b33f-ef49-4f80-b3ed-e3ec54572da9" CvElementArea="32, 360, 602, 60" CvType="InputBox" DesignTimeRectangle="35, 363, 596, 56" DesignTimeScaleFactor="1.5" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='filtro_busqueda' tag='SELECT' type='' class='form-select input-sm' aaname='Tipo de Búsqueda:' /&gt;" Guid="5136323c-581e-4287-b5df-db8195eae8e2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7dc7b33f-ef49-4f80-b3ed-e3ec54572da9" CvTextArea="33, 339, 171, 21" CvTextArgument="Tipo de Búsqueda:" CvType="Text" DesignTimeRectangle="35, 334, 169, 29" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl tag='LABEL' type='' class='' aaname='' check:innerText='Tipo de Búsqueda:' /&gt;" Guid="03f8ab6f-ac41-4920-8b68-f5a417cf6ce0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e6a3b14868e5fa9342c999263a7622da.png" xmlns="">0urwgE7xJrU-S6tQlLvA86Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

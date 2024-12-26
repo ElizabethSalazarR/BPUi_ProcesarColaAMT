@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Element 'Cerrar pestaña'",
+  "Type": "Element",
+  "Id": "FKF1_6HhxEKoPgpgeykfWA",
+  "Reference": "6dIUys5q00S0qF-1UQjg-w/FKF1_6HhxEKoPgpgeykfWA",
+  "ParentRef": "6dIUys5q00S0qF-1UQjg-w/d0HMm6enbkKWcMO-EdKyYQ",
+  "Created": "2024-12-26T17:47:59.1564454Z",
+  "Updated": "2024-12-26T17:47:59.1564454Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8dJfwteYsk2gq-aTIxekuA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="45e6418b-2ec9-4392-b33f-c4e6fdf68b28" CvElementArea="811, 241, 75, 41" CvTextArea="825, 255, 48, 14" CvTextArgument="Buscar" CvType="Button" DesignTimeRectangle="813, 243, 72, 38" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='iframe_descripcion' tag='IFRAME' /&gt;&lt;webctrl id='boton_buscar' tag='BUTTON' type='' class='btn btn-primary mr-2' aaname='Buscar                                     ' check:innerText='Buscar' /&gt;" Guid="07e68721-d35c-4467-9995-f98bc7202679" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="37307cd4d4253c8e302806823819f2be.png" xmlns="">0wF10BKf6okqXVzUzogcmWA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

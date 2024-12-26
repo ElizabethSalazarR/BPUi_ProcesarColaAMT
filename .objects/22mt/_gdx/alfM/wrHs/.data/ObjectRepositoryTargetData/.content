@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GOM6P0rqMUOe0bLxrleyZQ" Reference="6dIUys5q00S0qF-1UQjg-w/wrHszDc_9UyN13gWPDCFAg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicioConsultaInfracciones/paginas/imprime_boleta.jsp" DesignTimeRectangle="152, 41, 339, 34" DesignTimeScaleFactor="1" ElementType="Toolbar" FullSelectorArgument="&lt;wnd aaname='Cargando' cls='msctls_progress32' /&gt;&lt;wnd ctrlid='1001' title='*' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Cargando' cls='msctls_progress32' /&gt;&lt;wnd ctrlid='1001' title='*' check:text='*' /&gt;" Guid="0463dd44-1742-49d6-8fc7-945095432450" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Guardar como' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="124ccc78-4247-448c-95ae-54ee2e83a385" CvTextArea="37, 9, 77, 12" CvTextArgument="Guardar como" CvType="Text" DesignTimeRectangle="37, 9, 77, 12" ElementType="Text" Guid="81c22a16-032c-4e43-8c24-12795dc47944" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="408ddc078020093c65032650f2aaee14.png" xmlns="">0b5IZhUo9TECQhKklwyVj2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

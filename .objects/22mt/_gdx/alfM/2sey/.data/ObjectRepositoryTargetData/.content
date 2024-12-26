@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NY7cpRuoSEWPUEt79AdFmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicioConsultaInfracciones/paginas/imprime_boleta.jsp" CVScreenId="a6840de8-70fe-4f0c-8059-900d56e5a270" CvElementArea="378, 8, 240, 35" CvType="Button" DesignTimeRectangle="594, 17, 17, 17" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='imprime_boleta.jsp: Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Barra de pestañas' role='page tab list' /&gt;&lt;ctrl name='imprime_boleta.jsp' role='page tab' /&gt;&lt;ctrl name='Cerrar pestaña' role='push button' automationid='' check:text='Cerrar pestaña' /&gt;" Guid="d4519ba4-b668-4354-967c-60fd0672690c" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='imprime_boleta.jsp y 1 página más - Personal: Microsoft​ Edge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a6840de8-70fe-4f0c-8059-900d56e5a270" CvElementArea="378, 8, 240, 35" CvTextArea="409, 18, 102, 15" CvTextArgument="imprime_boleta.jsp" CvType="Button" DesignTimeRectangle="370, 8, 256, 35" ElementType="TabPage" FullSelectorArgument="&lt;ctrl name='imprime_boleta.jsp: Microsoft Edge' role='pane' /&gt;&lt;ctrl idx='2' name='Barra de pestañas' role='page tab list' /&gt;&lt;ctrl name='imprime_boleta.jsp' role='page tab' /&gt;" FuzzySelectorArgument="&lt;ctrl name='imprime_boleta.jsp: Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Barra de pestañas' role='page tab list' /&gt;&lt;ctrl name='imprime_boleta.jsp' role='page tab' automationid='' check:fulltext='Cerrar pestaña' /&gt;" Guid="0b087e30-4bee-4eb2-abec-fedc3bba4e42" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3ebf14073c42d642201f70e3cb52828c.png" xmlns="">01MEOm7JIxEW26fJEKkGEQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

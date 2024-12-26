@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="m7TyZ66zkUCwJ85GwRl28Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="servicios.axiscloud.ec/AutoServicio/inicio.jsp" CVScreenId="b5265fad-221d-40f4-ba3c-8f1569d3c46d" CvTextArea="32, 525, 59, 14" CvType="AnyWordGroup" DesignTimeRectangle="32, 525, 59, 14" DesignTimeScaleFactor="1" ElementType="Text" Guid="7523d0e3-31cb-4d2b-b41c-982ba35b04e5" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Servicios en Línea' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b5265fad-221d-40f4-ba3c-8f1569d3c46d" CvTextArea="32, 505, 68, 13" CvTextArgument="Pendientes" CvType="Text" DesignTimeRectangle="32, 505, 68, 13" ElementType="Text" Guid="ca336fe6-2baa-4122-a032-777217a4ccb5" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4cba71d42c5329d691be6cc5cdd5219c.png" xmlns="">0kXaXlKovj0qlm65kKWWyng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
